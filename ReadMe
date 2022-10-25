@@ -1,0 +1,6 @@
+Pour faire tourner le serveur
+
+1- installer Docker
+2- En ligne de commande, faites passer `docker-compose up`
+
+le serveur marche sur le port http://localhost:8501
